@@ -1,0 +1,28 @@
+name: sentse
+favicon: null
+layout_spectrum: 0.479043290251866
+typography_spectrum: 0.5253768812399358
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.31764130597002804
+  lightness: 0.14380087959580123
+  saturation: 0.7245610787067562
+  rhythmicContrast: 0.71191098052077
+purpose: []
